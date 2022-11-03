@@ -1,2 +1,2 @@
 # Aufgaben-SWP
-school work
+school tasks
